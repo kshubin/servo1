@@ -1,0 +1,13 @@
+
+src/_tmp/
+CMSIS/
+Debug/
+Release/
+
+*.o
+*.xcl
+*.pbi
+*.pbi.xcl
+*.pbd
+*.pbd.browse
+*.pbd.linf
